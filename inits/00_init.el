@@ -12,3 +12,13 @@
 ;; defualt encord
 (prefer-coding-system 'utf-8)
 
+;; 対応する括弧を強調する
+(setq show-paren-delay 0)
+(show-paren-mode t)
+
+;; 末尾に空行が入るようにする
+(setq require-final-newline t)
+
+;; 行番号表示
+(require 'linum)
+(global-linum-mode)
