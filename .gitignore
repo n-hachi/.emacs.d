@@ -1,0 +1,5 @@
+.cask/
+elpa/
+auto-save-list/
+
+ac-comphist.dat
