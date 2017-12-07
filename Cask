@@ -38,3 +38,7 @@
 
 ;; git
 (depends-on "magit")
+
+;; clip board
+(depends-on "xclip")
+

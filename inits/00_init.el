@@ -22,3 +22,9 @@
 ;; 行番号表示
 (require 'linum)
 (global-linum-mode)
+
+;; ヤンク/ペーストにクリップボードを使う
+(require 'xclip)
+(xclip-mode 1)
+(setq x-select-enable-clipboard t)
+
