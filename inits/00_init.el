@@ -28,3 +28,9 @@
 (xclip-mode 1)
 (setq x-select-enable-clipboard t)
 
+;; スタートアップページを表示しない
+(setq inhibit-startup-message t)
+
+;; altキーをmetaに割り振る
+(setq x-alt-keysym 'meta)
+
