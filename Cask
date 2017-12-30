@@ -42,3 +42,5 @@
 ;; clip board
 (depends-on "xclip")
 
+;; workspace
+(depends-on "perspective")
