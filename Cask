@@ -44,3 +44,6 @@
 
 ;; workspace
 (depends-on "perspective")
+
+;; helm
+(depends-on "helm")
