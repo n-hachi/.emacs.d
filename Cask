@@ -47,3 +47,6 @@
 
 ;; helm
 (depends-on "helm")
+
+;; redo
+(depends-on "redo+")
