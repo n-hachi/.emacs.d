@@ -50,3 +50,6 @@
 
 ;; redo
 (depends-on "redo+")
+
+;; undo-tree
+(depends-on "undo-tree")
