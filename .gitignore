@@ -3,3 +3,9 @@ elpa/
 auto-save-list/
 
 ac-comphist.dat
+
+# persp-mode
+persp-confs
+
+# recentf
+recentf

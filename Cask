@@ -53,3 +53,6 @@
 
 ;; undo-tree
 (depends-on "undo-tree")
+
+;; persp-mode
+(depends-on "persp-mode")
