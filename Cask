@@ -35,6 +35,9 @@
 (depends-on "go-autocomplete")
 (depends-on "go-eldoc")
 (depends-on "go-direx")
+(depends-on "go-guru")
+(depends-on "go-mode-autoloads")
+(depends-on "go-rename")
 
 ;; git
 (depends-on "magit")
