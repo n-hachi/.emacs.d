@@ -59,3 +59,6 @@
 
 ;; persp-mode
 (depends-on "persp-mode")
+
+;; edit-server
+(depends-on "edit-server")
