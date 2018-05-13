@@ -34,3 +34,7 @@
 ;; altキーをmetaに割り振る
 (setq x-alt-keysym 'meta)
 
+;; restrict to create backup-files
+(setq make-backup-files nil)
+(setq make-save-default nil)
+
