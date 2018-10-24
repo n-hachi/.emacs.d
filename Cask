@@ -61,3 +61,6 @@
 
 ;; edit-server
 (depends-on "edit-server")
+
+;; speedbar
+(depends-on "sr-speedbar")
