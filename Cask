@@ -49,6 +49,7 @@
 
 ;; helm
 (depends-on "helm")
+(depends-on "helm-descbinds")
 
 ;; redo
 (depends-on "redo+")
